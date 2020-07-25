@@ -31,6 +31,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 - 🌱 Kaggler [@Kaggle](https://www.kaggle.com/akhilkasare)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: akhil.kasare80@gmail.com
+- :green_book: Author [@Medium](https://medium.com/@akhil.kasare80)
 
 &nbsp;
 
