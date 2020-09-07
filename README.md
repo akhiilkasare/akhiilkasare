@@ -69,8 +69,8 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akhiilkasare&repo=will-you-get-job-or-not-using-deep-learning" />
 </a>
 
-<a href="https://github.com/akhiilkasare/diabetes-prediction-deployment">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akhiilkasare&repo=diabetes-prediction-deployment" />
+<a href="https://github.com/akhiilkasare/face-recognition-with-attendance-system">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akhiilkasare&repo=face-recognition-with-attendance-system" />
 </a>
 
 
