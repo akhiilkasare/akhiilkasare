@@ -2,7 +2,7 @@
 
 
 <a href="https://twitter.com/akhil_kasare">
-  <img align="left" alt="Chirag's Resume | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Akhil's Resume | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/akhil-kasare-895952107/">
   <img align="left" alt="Akhil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -57,8 +57,8 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 ⭐️ Recent projects in which I have created and contributed [Akhil Kasare](https://github.com/akhiilkasare)
 
 
-<a href="https://github.com/akhiilkasare/IPL-score-predictor-using-machine-learning">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akhiilkasare&repo=IPL-score-predictor-using-machine-learning" />
+<a href="https://github.com/akhiilkasare/Covid-19-chest-x-ray-detection">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akhiilkasare&repo=Covid-19-chest-x-ray-detection" />
 </a>
 
 <a href="https://github.com/akhiilkasare/Language-Detection-Using-NLP-and-Machine-Learning">
