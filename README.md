@@ -54,23 +54,3 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=akhiilkasare&show_icons=true&hide_border=true)
 
 
-⭐️ Recent projects in which I have created and contributed [Akhil Kasare](https://github.com/akhiilkasare)
-
-
-<a href="https://github.com/akhiilkasare/Covid-19-chest-x-ray-detection">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akhiilkasare&repo=Covid-19-chest-x-ray-detection" />
-</a>
-
-<a href="https://github.com/akhiilkasare/Language-Detection-Using-NLP-and-Machine-Learning">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akhiilkasare&repo=Language-Detection-Using-NLP-and-Machine-Learning" />
-</a>
-
-<a href="https://github.com/akhiilkasare/will-you-get-job-or-not-using-deep-learning">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=akhiilkasare&repo=will-you-get-job-or-not-using-deep-learning" />
-</a>
-
-<a href="https://github.com/akhiilkasare/face-recognition-with-attendance-system">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=akhiilkasare&repo=face-recognition-with-attendance-system" />
-</a>
-
-
