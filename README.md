@@ -27,7 +27,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 **Talking about Personal Stuffs/Achievements:**
 
 
-- 👨‍💻 Junior Data Scientist @iNeuron.ai
+- 👨‍💻 Senior Data Scientist at Volody Products Private Limited
 - 🌱 Kaggler [@Kaggle](https://www.kaggle.com/akhilkasare)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: akhil.kasare80@gmail.com
