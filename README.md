@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Akhil Kasare, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Junior Data Scientist 🙍🏽‍♂️ at [iNeuron.ai].
+Hi, I'm Akhil Kasare, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Senior Data Scientist 🙍🏽‍♂️ at [Volody Products Pvt Ltd].
 
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
