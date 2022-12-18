@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Akhil Kasare, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Senior Data Scientist 🙍🏽‍♂️ at [Volody Products Pvt Ltd].
+Hi, I'm Akhil Kasare, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Senior Data Scientist 🙍🏽‍♂️ at Jio Platforms Limited.
 
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
@@ -27,7 +27,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 **Talking about Personal Stuffs/Achievements:**
 
 
-- 👨‍💻 Senior Data Scientist at Volody Products Private Limited
+- 👨‍💻 Manager Data Scientist at Jio Platforms Limited.
 - 🌱 Kaggler [@Kaggle](https://www.kaggle.com/akhilkasare)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: akhil.kasare80@gmail.com
