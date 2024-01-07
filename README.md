@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Akhil!](https://github.com/akhiilkasare)
+### Hey 👋, I'm [Akhill Kassare!](https://github.com/akhiilkasare)
 
 
 <a href="https://twitter.com/akhil_kasare">
