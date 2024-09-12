@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Akhil Kasare, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Manager Data Scientist 🙍🏽‍♂️ at Jio Platforms Limited.
+Hi, I'm Akhil Kasare, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Senior Machine Learning Engineer 🙍🏽‍♂️ at Quantiphi.
 
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️🗻.
